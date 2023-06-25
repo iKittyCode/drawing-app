@@ -1,0 +1,19 @@
+{
+  "name": "drawing-app",
+  "version": "1.0.0",
+  "description": "It is a shared drawing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "COOL"
+  ],
+  "author": "iKittyCode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.0"
+  }
+}
